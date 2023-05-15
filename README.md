@@ -1,4 +1,6 @@
 ### Hi there 👋, Czesc jestem Przemek
+![](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg)
+
 
 Skills:  / JS / HTML / CSS
 
