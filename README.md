@@ -2,8 +2,8 @@
 ![](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg)
 
 
-🔭 I’m currently working on HTML, CSS, JavaScript, ReactJs
-🌱 I’m currently learning NodeJs and Express
+🔭 I’m currently working on HTML, CSS, JavaScript, ReactJs <br>
+🌱 I’m currently learning React
 
 
 
