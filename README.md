@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Przemysław</h1>
 <h3 align="center">Pasjonat i zaangażowany programista webowy z ponad 3-letnim doświadczeniem w kodowaniu. Jestem samodzielnym profesjonalistą skoncentrowanym na ciągłym rozwoju i doskonaleniu w swojej dziedzinie. Moim celem jest tworzenie aplikacji internetowych na światowym poziomie, wykorzystując nowoczesne technologie i najlepsze praktyki, aby dostarczać wyjątkowe doświadczenia użytkowników.</h3>
 
-- 🌱 I’m currently learning **React, Angular**
+- 🌱 I’m currently learning **React & JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
